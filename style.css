@@ -48,6 +48,7 @@ body{
 
 .tecladoNumero{
     display: flex;
+    flex-direction: row-reverse;
     flex-wrap: wrap;
     justify-content: space-between;
     width: 60%;
